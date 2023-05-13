@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "SNO": 1,
+      "ITEMNAME": "FOGG-BLUE",
+      "PRICE": "250",
+      "EXPIRYDATE":"25-03-2058"
+    },
+    {
+      "SNO": 2,
+      "ITEMNAME": "FOGG-BLACK",
+      "PRICE": "250",
+      "EXPIRYDATE":"25-03-2058"
+    },
+    {
+      "SNO": 3,
+      "ITEMNAME": "FOGG-GREEN",
+      "PRICE": "250",
+      "EXPIRYDATE":"25-03-2058"
+    },
+    {
+      "SNO": 4,
+      "ITEMNAME": "FOGG-RED",
+      "PRICE": "250",
+      "EXPIRYDATE":"25-03-2058"
+    }
+  ]
+}
